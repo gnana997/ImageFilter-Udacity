@@ -56,3 +56,7 @@ http://udacity-image-filter-dev.us-east-1.elasticbeanstalk.com/
 ### Github Repository
 
 https://github.com/gnana997/ImageFilter-Udacity
+
+### ScreenShots
+
+Screenshot is placed in SuccessfullyDeployed folder.
